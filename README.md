@@ -3,7 +3,7 @@
 #### Connection string name: otipdbconn
 #### When deploy to Azure make sure to add connection string configuration with name: otipdbconn
 
-### When running locally, make sure to include appsettings.json and create connection string: otipdbconn
+#### When running locally, make sure to include appsettings.json and create connection string: otipdbconn
 
 ### Enable Entity Framework
 #### Right click ODataApi project in visual studio to open terminal
