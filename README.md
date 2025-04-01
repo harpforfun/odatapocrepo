@@ -1,8 +1,7 @@
 # Odata POC
 
-#### Connection string name: otipdbconn
+#### Run the scripts under sql folder to create the database, tables and stored procedure
 #### When deploy to Azure make sure to add connection string configuration with name: otipdbconn
-
 #### When running locally, make sure to include appsettings.json and create connection string: otipdbconn
 
 ### Enable Entity Framework
